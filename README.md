@@ -86,10 +86,10 @@ Box plots comparing repository sizes (`size_kb`) to detect trends in code bloat 
 
 # 🛠️ Built With
 
-  Power BI Desktop ->  Dashboard creation and visualization
-  Power Query (M)  ->  Data cleaning and transformation
-  DAX              ->  Custom analytics measures
-  Kaggle Dataset   ->  GitHub repository metrics dataset
+  Power BI Desktop ->  Dashboard creation and visualization </br>
+  Power Query (M)  ->  Data cleaning and transformation     </br> 
+  DAX              ->  Custom analytics measures            </br>
+  Kaggle Dataset   ->  GitHub repository metrics dataset    </br>
 
 
 
@@ -97,13 +97,13 @@ Box plots comparing repository sizes (`size_kb`) to detect trends in code bloat 
 
 *The original data was altered for visualizing it in dashboard.
 
-  Source         ->    Kaggle -- GitHub Repo Metrics Dataset
-  Author         ->    Lorenzo Scaturchio
-  Link           ->    https://www.kaggle.com/datasets/lorenzoscaturchio/github-repo-metrics
-  Repositories   ->    5,500
-  Features       ->    29
-  Timeline       ->    2014 -- 2025
-  Data Type      ->    Synthetic
+  Source         ->    Kaggle -- GitHub Repo Metrics Dataset    </br>
+  Author         ->    Lorenzo Scaturchio                       </br>
+  Link           ->    https://www.kaggle.com/datasets/lorenzoscaturchio/github-repo-metrics   </br>
+  Repositories   ->    5,500    </br>
+  Features       ->    29       </br>
+  Timeline       ->    2014 -- 2025     </br>
+  Data Type      ->    Synthetic      </br>
 
 
 # 📝 How to Use
