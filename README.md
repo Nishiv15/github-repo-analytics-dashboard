@@ -104,21 +104,7 @@ Box plots comparing repository sizes (`size_kb`) to detect trends in code bloat 
   Features       ->    29       </br>
   Timeline       ->    2014 -- 2025     </br>
   Data Type      ->    Synthetic      </br>
-
-
-# 📝 How to Use
-
-1.  Clone the repository
-
-``` bash
-git clone https://github.com/yourusername/github-ecosystem-dashboard
-```
-
-2.  Open the `.pbix` file in **Power BI Desktop**\
-3.  Navigate between the **three dashboard pages**\
-4.  Use the **Language Slicer** to filter insights by programming
-    language.
-
+  
 
 # 📌 Key Learnings
 
